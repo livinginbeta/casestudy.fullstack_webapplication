@@ -5,13 +5,21 @@
 
 **Tecnologies used to complete this project:**
         * Java
+	
 	* Spring Boot
+	
 	* Maven
+	
 	* JSP
+	
 	* JSTL
+	
 	* HTML
+	
 	* CSS
+	
 	* H2
+	
 	* Photoshop
 
 **How to experience this project:**
